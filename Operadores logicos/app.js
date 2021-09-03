@@ -1,0 +1,3 @@
+let edad 
+let altura 
+
