@@ -14,7 +14,7 @@ function noParesDeContarImparesHasta(numero){
     return contador;
 }
 
-console.log(noParesDeContarImparesHasta(11));
+// console.log(noParesDeContarImparesHasta(11));
 
 
 
@@ -35,7 +35,7 @@ function encontreUn5 (numeros) {
     console.log("Se encontró un 5!");
 }
 
-encontreUn5(arrayNumeros);
+// encontreUn5(arrayNumeros);
 
 
 // Para este ejercicio te damos la función tablaDeMultiplicar ya definida, la cual recibe un número como parámetro. 
@@ -59,7 +59,7 @@ function tablaDeMultiplicarFor(numero) {
        }
 }
 
-tablaDeMultiplicarFor(3)
+// tablaDeMultiplicarFor(3)
 
 
 
@@ -71,4 +71,16 @@ function tablaDeMultiplicar(numero) {
        }
 }
 
-tablaDeMultiplicar(2)
+// tablaDeMultiplicar(2)
+
+let prueba; 
+
+function tablaDeMultiplicar2(numero1){
+    let i = 1
+    while(i<=10){
+        console.log(numero1 + " * " + i + " = " + numero1*i);
+        i++
+    }
+}
+
+tablaDeMultiplicar2(2)
