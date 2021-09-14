@@ -1,0 +1,106 @@
+[{
+    "marca": "Ford",
+    "modelo": "Probe",
+    "anio": 1992,
+    "precio": 750685.5,
+    "patente": "WAU329",
+    "vendido": false
+}, {
+    "marca": "Dodge",
+    "modelo": "Caravan",
+    "anio": 2001,
+    "precio": 365264.14999999997,
+    "patente": "RDH130",
+    "vendido": true
+}, {
+    "marca": "Ford",
+    "modelo": "Bronco",
+    "anio": 1986,
+    "precio": 155250,
+    "patente": "ULD543",
+    "vendido": false
+}, {
+    "marca": "Dodge",
+    "modelo": "Ram 2500",
+    "anio": 1997,
+    "precio": 1083619.7,
+    "patente": "GDZ224",
+    "vendido": false
+}, {
+    "marca": "Mercedes-Benz",
+    "modelo": "CLK-Class",
+    "anio": 2000,
+    "precio": 1084617.9,
+    "patente": "JHC968",
+    "vendido": false
+}, {
+    "marca": "Chevrolet",
+    "modelo": "Impala",
+    "anio": 1994,
+    "precio": 507323.64999999997,
+    "patente": "WBA844",
+    "vendido": false
+}, {
+    "marca": "Mitsubishi",
+    "modelo": "Montero",
+    "anio": 2000,
+    "precio": 430474.89999999997,
+    "patente": "SAL913",
+    "vendido": true
+}, {
+    "marca": "Lexus",
+    "modelo": "GX",
+    "anio": 2011,
+    "precio": 348921.5,
+    "patente": "FAF752",
+    "vendido": false
+}, {
+    "marca": "Toyota",
+    "modelo": "Land Cruiser",
+    "anio": 2007,
+    "precio": 1072586.5999999999,
+    "patente": "AFR109",
+    "vendido": false
+}, {
+    "marca": "Chevrolet",
+    "modelo": "Malibu",
+    "anio": 2006,
+    "precio": 198314.05,
+    "patente": "UDF868",
+    "vendido": true
+}, {
+    "marca": "Lexus",
+    "modelo": "HS",
+    "anio": 2011,
+    "precio": 648578.1499999999,
+    "patente": "AAX134",
+    "vendido": true
+}, {
+    "marca": "Nissan",
+    "modelo": "Altima",
+    "anio": 1993,
+    "precio": 564426.8999999999,
+    "patente": "WBA806",
+    "vendido": false
+}, {
+    "marca": "Toyota",
+    "modelo": "Xtra",
+    "anio": 1995,
+    "precio": 510580.44999999995,
+    "patente": "MCU947",
+    "vendido": false
+}, {
+    "marca": "Mercury",
+    "modelo": "Sable",
+    "anio": 2008,
+    "precio": 465686.74999999994,
+    "patente": "JTH240",
+    "vendido": false
+}, {
+    "marca": "Dodge",
+    "modelo": "Dakota",
+    "anio": 1995,
+    "precio": 661011.95,
+    "patente": "WAV703",
+    "vendido": true
+}]
